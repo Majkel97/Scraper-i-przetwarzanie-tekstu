@@ -73,9 +73,8 @@ Tokeny poddane lemantyzacji i filtrowaniu są przekazywane do funkcji która ana
 
 W wyniku działania aplikacji, w konsoli wyświetlana jest liczba wszystkich słów oraz unikalnych, a następnie generowane są 2 pliki PNG, które są zamieszczone poniżej. Jeden z nich pokazuje częstotliwość występowania słów w formie wykresu typu wordcloud, druga zaś to tradycyjny wykres kolumnowy top 0,3% najpopularniejszych słów.
 
-![7_visualize_1](https://github.com/Majkel97/Inteligentne_przetwarzanie_tekstu/assets/96554804/efb88393-f590-4120-ab60-0b8bab9b886b)
-![7_visualize_2](https://github.com/Majkel97/Inteligentne_przetwarzanie_tekstu/assets/96554804/5922c122-eaf5-4e08-9c70-37e1a4b24a12)
-
+<img src="https://github.com/Majkel97/Scraper-i-przetwarzanie-tekstu/blob/main/example_results/7_visualize_1.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Scraper-i-przetwarzanie-tekstu/blob/main/example_results/7_visualize_2.png?raw=true"  width="800px" height="auto">
 
 4. Wektoryzacja
 
